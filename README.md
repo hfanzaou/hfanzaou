@@ -1,16 +1,17 @@
-### Hi there 👋
+![I am a student at 1337 coding school](github-header-image.png)
 
-<!--
-**hfanzaou/hfanzaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate programmer, student at 1337, with a focus on backend development. Enthusiastic about learning new technologies and solving complex problems.
 
-Here are some ideas to get you started:
+Skills: NestJS / Docker / JS / TS /C++ / C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ft_transcendence 
+- 🌱 I’m currently learning React, CyberSecurity 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfanzaou)](https://github.com/anuraghazra/github-readme-stats)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hfanzaou&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hfanzaou)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hfanzaou)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hatim-fanzaoui-001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HFanzaoui)  
+
