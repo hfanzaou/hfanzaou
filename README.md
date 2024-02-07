@@ -1,4 +1,6 @@
-![I am a student at 1337 coding school](github-header-image.png)
+<!---![I am a student at 1337 coding school](github-header-image.png)--->
+
+[![hfanzaou's 42 stats](https://badge.mediaplus.ma/starryblue/hfanzaou)](https://github.com/oakoudad/badge42)
 
 Passionate programmer, student at 1337, with a focus on backend development. Enthusiastic about learning new technologies and solving complex problems.
 
