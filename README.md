@@ -2,8 +2,6 @@
 
 [![hfanzaou's 42 stats](https://badge.mediaplus.ma/starryblue/hfanzaou)](https://github.com/oakoudad/badge42)
 
-Passionate programmer, student at 1337, with a focus on backend development. Enthusiastic about learning new technologies and solving complex problems.
-
 Skills: NestJS / Docker / JS / TS / C++ / C
 
 - 🌱 I’m currently learning React, CyberSecurity 
