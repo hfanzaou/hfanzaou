@@ -75,7 +75,6 @@ A multiplayer pong game with real-time gameplay and social features built using 
 
 - 🔧 **Technologies**: TypeScript, NestJS, Docker, WebSockets
 - ✨ **Highlights**: Real-time multiplayer gaming, social interactions, responsive design
-- ⭐ Stars: 0 | 🍴 Forks: 2
 
 ---
 
@@ -86,7 +85,6 @@ A custom web server implementation following HTTP/1.1 specifications, demonstrat
 
 - 🔧 **Technologies**: C++, HTTP Protocol, CGI
 - ✨ **Highlights**: Built from scratch, HTTP/1.1 compliance, CGI support
-- ⭐ Stars: 1 | 🍴 Forks: 0
 
 ---
 
@@ -97,7 +95,6 @@ An AI-powered conversational interface leveraging Google's Gemini API for intell
 
 - 🔧 **Technologies**: Node.js, Express, Google Gemini AI, TypeScript
 - ✨ **Highlights**: AI integration, conversational interface, modern architecture
-- ⭐ Stars: 0 | 🍴 Forks: 0
 
 ---
 
@@ -108,7 +105,6 @@ Comprehensive security research project demonstrating multiple privilege escalat
 
 - 🔧 **Technologies**: Python, Linux Security, Dirty COW (CVE-2016-5195)
 - ✨ **Highlights**: Penetration testing, vulnerability exploitation, security research
-- ⭐ Stars: 0 | 🍴 Forks: 1
 
 ---
 
@@ -119,7 +115,6 @@ A comprehensive introduction to container orchestration using K3s, exploring Kub
 
 - 🔧 **Technologies**: Kubernetes, K3s, Docker, Vagrant, Shell Scripting
 - ✨ **Highlights**: Container orchestration, CI/CD implementation, infrastructure as code
-- ⭐ Stars: 0 | 🍴 Forks: 1
 
 ---
 
