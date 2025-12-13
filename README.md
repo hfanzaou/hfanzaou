@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-### 🚀 Backend Developer | 🔐 Cybersecurity Enthusiast | ☸️ DevOps Practitioner | 🤖 AI Integrator
+### 🚀 Backend Developer | 🔐 Cybersecurity Enthusiast | ☸️ DevOps Practitioner
 
 Backend development specialist with expertise in building scalable web applications, securing systems, orchestrating containers, and integrating AI technologies. Currently focused on **Backend Development**, **Cybersecurity**, **DevOps**, and **AI Integration**.
 
@@ -57,12 +57,6 @@ Passionate programmer with a focus on **backend development**. Enthusiastic abou
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI/ML & APIs
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-
-### Security
-🔐 **Penetration Testing** | 🛡️ **Privilege Escalation** | 🌐 **Network Security**
 
 ---
 
@@ -115,15 +109,6 @@ A comprehensive introduction to container orchestration using K3s, exploring Kub
 
 - 🔧 **Technologies**: Kubernetes, K3s, Docker, Vagrant, Shell Scripting
 - ✨ **Highlights**: Container orchestration, CI/CD implementation, infrastructure as code
-
----
-
-## 📦 Additional Projects
-
-- **[guides-builder](https://github.com/hfanzaou/guides-builder)** (Python) - Automated guide generation using Google Gemini API
-- **[Fullstack-Software-Engineer-Intern-24](https://github.com/hfanzaou/Fullstack-Software-Engineer-Intern-24)** (TypeScript) - Full-stack Next.js application
-- **[MedicamentGPT](https://github.com/hfanzaou/MedicamentGPT)** (PHP/Laravel) - Healthcare-focused GPT application with PostgreSQL
-- **[42_CyberSecurity_pool](https://github.com/hfanzaou/42_CyberSecurity_pool)** (Python) - Cybersecurity exercises and challenges
 
 ---
 
