@@ -2,7 +2,7 @@
 
 [![hfanzaou's 42 stats](https://badge.mediaplus.ma/starryblue/hfanzaou)](https://github.com/oakoudad/badge42)
 
-https://komarev.com/ghpvc/?username=hfanzaou
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=your-github-username)
 
 ### 🚀 Backend Developer | 🔐 Cybersecurity Enthusiast | ☸️ DevOps Practitioner
 
