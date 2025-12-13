@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hatim
 
-[![hfanzaou's 42 stats](https://badge.mediaplus.ma/starryblue/hfanzaou)](https://github.com/oakoudad/badge42)
+[![hfanzaou's 42 stats](https://badge.mediaplus.ma/greenbinary/hfanzaou)](https://github.com/oakoudad/badge42)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hfanzaou)
 
