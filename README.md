@@ -19,7 +19,7 @@ Backend development specialist with expertise in building scalable web applicati
 
 Passionate programmer with a focus on **backend development**. Enthusiastic about learning new technologies and solving complex problems.
 
-- 🎓 Proud graduate of **1337 coding school** (42 Network)
+- 🎓 Proud student of **1337 coding school** (42 Network)
 - 📅 Member since **July 2018**
 - 🌐 Portfolio: [hfanzaou.netlify.app](https://hfanzaou.netlify.app/)
 - 🐦 Twitter: [@HFanzaoui](https://twitter.com/HFanzaoui)
