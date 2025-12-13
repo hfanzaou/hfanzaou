@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hatim Fanzaoui
+# 👋 Hi, I'm Hatim
 
 [![hfanzaou's 42 stats](https://badge.mediaplus.ma/starryblue/hfanzaou)](https://github.com/oakoudad/badge42)
 
