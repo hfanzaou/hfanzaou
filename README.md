@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Hatim
 
-[![hfanzaou's 42 stats](https://badge.mediaplus.ma/greenbinary/hfanzaou)](https://github.com/oakoudad/badge42)
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://media.giphy.com/media/ZVik7pIojeZ0w/giphy.gif" alt="42 School - Coding" width="480" />
+  </a>
+</p>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hfanzaou)
 
