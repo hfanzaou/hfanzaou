@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=hfanzaou&fontSize=52&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Backend%20Dev%20%7C%20Security%20Researcher%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=16&descColor=00ff41" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Hatim&fontSize=52&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Backend%20Dev%20%7C%20Security%20Researcher%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=16&descColor=00ff41" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3A%3A+Hatim+Fanzaoui;cat+%2Fetc%2Fpasswd+%7C+grep+root;sudo+make+me+a+sandwich;git+push+--force+%F0%9F%98%88;ssh+root%40production+%F0%9F%94%93;while(true)+%7B+learn%28%29%3B+build%28%29%3B+%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3A%3A+hfanzaou;cat+%2Fetc%2Fpasswd+%7C+grep+root;sudo+make+me+a+sandwich;git+push+--force+%F0%9F%98%88;ssh+root%40production+%F0%9F%94%93;while(true)+%7B+learn%28%29%3B+build%28%29%3B+%7D)](https://git.io/typing-svg)
 
 </div>
 
