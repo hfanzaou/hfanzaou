@@ -37,7 +37,6 @@ $ cat /home/hfanzaou/about.txt
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  NAME    : Hatim Fanzaoui                           ║
 ║  ALIAS   : hfanzaou                                 ║
 ║  SCHOOL  : 1337 (42 Network) — since July 2018      ║
 ║  FOCUS   : Backend · Cybersecurity · DevOps · AI    ║
